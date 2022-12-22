@@ -42,7 +42,7 @@ form input{
   text-decoration: none;
   color: #07001f;
 }
-button{
+input[type='submit']{
   font-size: 1.1rem;
   margin-top: 1rem;
   padding: 8px 0;
@@ -54,7 +54,7 @@ button{
   color: #fff;
   cursor: pointer;
 }
-button:hover{
+input[type='submit']:hover{
   background: #040405;
 }
 .or{
